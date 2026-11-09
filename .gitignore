@@ -1,0 +1,35 @@
+# Environments and Secrets
+.env
+.env.local
+.venv/
+venv/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Databases & Ephemeral Logs
+*.db
+*.db-shm
+*.db-wal
+test_*.db
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+!.env.example
+
+venv/
+.venv/
+../venv/
+
+__pycache__/
+*.pyc
+
+*.db
+*.db-shm
+*.db-wal

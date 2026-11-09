@@ -1,0 +1,10 @@
+# BharatTrip Refund Operations Assistant - Dependencies
+langgraph>=0.2.0
+langgraph-checkpoint-sqlite>=2.0.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+
